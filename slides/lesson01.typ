@@ -44,7 +44,7 @@
 
 #title-slide(
   title: "Introduction to Computer Architectures and Operating Systems",
-  subtitle: "Digital Transformation Management @ 2024",
+  subtitle: "Digital Transformation Management @ 2025",
   author: author,
   // date: datetime.today().display("[day] [month repr:long] [year]"),
 )
@@ -711,5 +711,5 @@
 ]
 
 #slide(title:"Disclaimer")[
-  Most of the slides are based on the slides of prof. Guido Borghi
+  Most of the slides are based on the slides of prof. Guido Borghi and enriched by dr. Davide Domini
 ]

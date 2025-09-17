@@ -36,7 +36,7 @@
 
 #let author = block(inset: 0.1em)[
   #table(inset: 0.5em, stroke: none, columns: (auto, 4fr),  align: (left, left),
-    [#alert[*Davide Domini*]], [`davide.domini@unibo.it`],
+    [#alert[*Manuele Pasini*]], [`manuele.pasini@unibo.it`],
     // [Author 2], [`author2@mail.com`],
     // [Author 3], [`author3@mail.com`],
   )
@@ -47,7 +47,7 @@
 
 #title-slide(
   title: "Crash Course on Software Development and Computer Architectures",
-  subtitle: "Digital Transformation Management @ 2024",
+  subtitle: "Digital Transformation Management @ 2025",
   author: author,
   // date: datetime.today().display("[day] [month repr:long] [year]"),
 )
@@ -58,8 +58,8 @@
 
   - Bachelor and Master Degree in #alert[Computer Science and Engineering] at University of Bologna
   - Currently #alert[PhD Student] in Computer Science and Engineering at University of Bologna
-  - #alert[Teaching tutor] for Software Engineering stuff in the DTM master course
-  - If you have any question write me at: `davide.domini@unibo.it`
+  - #alert[Teaching tutor] for data-related stuff in the DTM master course
+  - If you have any question write me at: `manuele.pasini@unibo.it`
 
 ]
 
@@ -78,9 +78,9 @@
 ]
 
 #slide(title: "When and where?")[
-  - Tuesday 24/09, Room 3.10, Time: 9-12
-  - Tuesday 01/10, Room 3.10, Time: 9-12
-  - Tuesday 15/10, Room 3.10, Time: 9-12
+  - Tuesday 23/09, Room 2.5, Time: 2 pm - 5 pm.
+  - Tuesday 26/09, Room 2.13, Time: 11 am - 14 pm.
+  - Tuesday 26/09, Room 3.3, Time: 15 pm - 18 pm.
 ]
 
 #slide(title: "Where can I find the slides?")[

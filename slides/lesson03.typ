@@ -48,7 +48,7 @@
 
 #title-slide(
   title: "Introduction to Programming Languages",
-  subtitle: "Digital Transformation Management @ 2024",
+  subtitle: "Digital Transformation Management @ 2025",
   author: author,
   // date: datetime.today().display("[day] [month repr:long] [year]"),
 )
