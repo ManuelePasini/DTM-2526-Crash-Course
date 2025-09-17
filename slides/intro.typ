@@ -79,13 +79,13 @@
 
 #slide(title: "When and where?")[
   - Tuesday 23/09, Room 2.5, Time: 2 pm - 5 pm.
-  - Tuesday 26/09, Room 2.13, Time: 11 am - 14 pm.
-  - Tuesday 26/09, Room 3.3, Time: 15 pm - 18 pm.
+  - Friday 26/09, Room 2.13, Time: 11 am - 14 pm.
+  - Friday 26/09, Room 3.3, Time: 15 pm - 18 pm.
 ]
 
 #slide(title: "Where can I find the slides?")[
   #alert[Disclaimer]: those slides were entirely made by Davide Domini (`davide.domini@unibo.it`) and Guido Borghi.
-  
+
   You can find #alert[all the slides and the code] on #alert[GitHub] (of course we will see what GitHub is, in the meanwhile think of it as one big shared folder).
   #alert[https://tinyurl.com/crashcoursedtm]
   #figure(image("images/qr.svg", width: 30%))
