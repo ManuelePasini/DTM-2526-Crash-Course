@@ -84,8 +84,10 @@
 ]
 
 #slide(title: "Where can I find the slides?")[
+  #alert[Disclaimer]: those slides were entirely made by Davide Domini (`davide.domini@unibo.it`) and Guido Borghi.
+  
   You can find #alert[all the slides and the code] on #alert[GitHub] (of course we will see what GitHub is, in the meanwhile think of it as one big shared folder).
-
+  #alert[https://tinyurl.com/crashcoursedtm]
   #figure(image("images/qr.svg", width: 30%))
 
 ]
