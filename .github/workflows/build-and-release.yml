@@ -3,6 +3,8 @@ name: Build Typst and deploy it on GitHub Releases
 on:
   push:
     tags: '*'
+    branches:
+      - 'master'
     branches-ignore:
       - 'autodelivery**'
       - 'bump-**'
