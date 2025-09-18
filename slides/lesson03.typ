@@ -231,6 +231,6 @@
   #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
     #link("https://tinyurl.com/DTM2526-lab02")
   ][
-    #figure(image("images/DTM-Lab02.svg", width:50%))
+    #figure(image("images/DTM-LAB02.svg", width:50%))
   ]
 ]
