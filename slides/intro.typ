@@ -1,4 +1,4 @@
-#import "@preview/polylux:0.4.0": metropolis
+#import "@preview/polylux:0.3.1": *
 #import "@preview/fontawesome:0.1.0": *
 
 #import themes.metropolis: *
