@@ -228,7 +228,7 @@
 #focus-slide[Last Lab]
 
 #slide(title:"Lab 2")[
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     #link("https://tinyurl.com/DTM2526-lab02")
   ][
     #figure(image("images/DTM-LAB02.svg", width:50%))

@@ -94,7 +94,7 @@
 
   You can find #alert[all the slides and the code] on #alert[GitHub] (of course we will see what GitHub is, in the meanwhile think of it as one big shared folder).
 
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     #alert[https://tinyurl.com/crashcoursedtm]
 
   ][

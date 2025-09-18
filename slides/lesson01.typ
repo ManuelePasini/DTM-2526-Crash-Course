@@ -124,7 +124,7 @@
     - Encryption
     - (Pseudo)Random Number Generator
   
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     #figure(image("images/RNG.png", width: 50%))
   ][
     #figure(image("images/encryption.jpg", width: 50%))
@@ -146,7 +146,7 @@
   - Expansion slot used for connecting expansion cards to a computer's motherboard
   - These expansion cards provide additional functionality or capabilities to a computer system
 
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     - Different types of PCI, for example: PCI and PCI/e
     - PCI/e not backward compatible with PCI
     - Different bandwidth (MB/s vs GB/s)
@@ -189,7 +189,7 @@
     - ...
   - This is so for several reasons, for instance #alert[technological] and #alert[marketing]
  
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
   - EU started to #alert[regulate] the connector market
       - iPhone 15, from lightning to USB-c
   ][
@@ -228,7 +228,7 @@
 ]
 
 #slide(title:"Central Processing Unit (4)")[
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     - Two main units:
       - #alert[Control Unit] (CU)
       - #alert[Arithmetic Logic Unit] (ALU)
@@ -274,7 +274,7 @@
 ]
 
 #slide(title:"Memory")[
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     - A memory is the place in which #alert[information is stored]
     - The #alert[basic unit] of memory is the binary digit, called bit. A bit may contain a 0 or a 1
     - Memories consist of a number of #alert[cells] each of which can store this piece of information
@@ -340,7 +340,7 @@
 ]
 
 #slide(title:"Hard Disks")[
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     - It #alert[stores and retrieves] digital data using #underline[magnetic storage] and one or more #underline[rigid rotating platters] coated with magnetic material
     - Data are stored in #alert[logic units] defined as: sectors, clusters, tracks and cilinders
     - It is an #alert[electro-mechanical] data storage device, composed by many components
@@ -577,7 +577,7 @@
   - #underline[Millions] (not dozen) of transistors on a single chip. This development soon led to #underline[smaller] and #underline[faster] computer: the beginning of the #alert[Personal Computer (PC)] era
   #figure(image("images/faggin.png", width:55%))
 
-  #components.side-by-side(columns: (1fr, 1fr, 1fr), gutter: 0em)[
+  #components.side-by-side(columns: (1fr, 1fr), gutter: 0em)[
     - #alert[IBM 5150] (IBM PC - 1981)
     - Operating System: MD-DOS (developed by a small company owned by _Bill Gates_…)
   ][

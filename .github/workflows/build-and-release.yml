@@ -45,7 +45,12 @@ jobs:
           version: 'latest'
 
       - name: Build documents
-        run: for file in `ls slides/*typ`; do typst compile $file; done
+        run: |
+            for file in slides/*.typ; do
+              if [ "$(basename "$file")" != "utils.typ" ]; then
+                typst compile "$file"
+              fi
+            done
 
       - name: Upload PDF file
         uses: actions/upload-artifact@v4.6.1
