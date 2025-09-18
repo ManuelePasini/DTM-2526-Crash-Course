@@ -225,8 +225,8 @@
 
 #slide(title:"Lab 2")[
   #side-by-side[
-    #link("https://tinyurl.com/DTM-LAB02")
+    #link("https://tinyurl.com/DTM2526-lab02")
   ][
-    #figure(image("images/DTM-LAB02.svg", width:50%))
+    #figure(image("images/DTM-Lab02.svg", width:50%))
   ]
 ]

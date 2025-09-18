@@ -678,7 +678,7 @@ print(cat.speak())  # Whiskers says Meow!
 
 #slide(title:"Lab 1")[
   #side-by-side[
-    #link("https://tinyurl.com/DTM-Lab01")
+    #link("https://tinyurl.com/DTM2526-lab01")
   ][
     #figure(image("images/DTM-Lab01.svg", width:50%))
   ]
