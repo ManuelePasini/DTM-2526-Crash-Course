@@ -32,7 +32,9 @@ jobs:
           wget https://github.com/FortAwesome/Font-Awesome/releases/download/6.4.2/fontawesome-free-6.4.2-desktop.zip
           wget https://github.com/bBoxType/FiraSans/archive/master.zip
           wget https://github.com/firamath/firamath/releases/download/v0.3.4/FiraMath-Regular.otf
-          wget https://github.com/google/fonts/raw/main/ofl/firasans/FiraSans%5Bwdth,wght%5D.ttf
+          wget https://github.com/google/fonts/archive/refs/heads/main.zip
+          unzip main.zip
+          sudo mv fonts-main/ofl/firasans/*.ttf /usr/share/fonts/
           unzip fontawesome-free-6.4.2-desktop.zip
           unzip master.zip
           sudo mv fontawesome-free-6.4.2-desktop /usr/share/fonts
