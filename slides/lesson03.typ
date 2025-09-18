@@ -39,7 +39,7 @@
 
 #let author = block(inset: 0.1em)[
   #table(inset: 0.5em, stroke: none, columns: (auto, 4fr),  align: (left, left),
-    [#alert[*Davide Domini*]], [`davide.domini@unibo.it`],
+    [#alert[*Manuele Pasini*]], [`manuele.pasini@unibo.it`],
   )
   #place(right, dy:-1.5em)[
     #figure(image("images/disi.svg", width:40%))
