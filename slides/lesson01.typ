@@ -14,6 +14,9 @@
 #show math.equation: set text(font: "Fira Math")
 #set strong(delta: 200)
 #set par(justify: true)
+#show heading.where(level: 1): set text(font: "Fira Sans", weight: 400)
+#show heading.where(level: 2): set text(font: "Fira Sans", weight: 400)
+
 
 #set quote(block: true)
 #show quote: set align(left)
