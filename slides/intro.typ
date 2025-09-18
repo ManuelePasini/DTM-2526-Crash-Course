@@ -1,9 +1,9 @@
-#import "@preview/polylux:0.4.0": *
+#import "@preview/polylux:0.4.0": metropolis
 #import "@preview/fontawesome:0.1.0": *
 
 #import themes.metropolis: *
 
-#show: metropolis-theme.with(
+#show: metropolis.with(
   aspect-ratio: "16-9",
   // footer: [Optional Footnote]
 )
