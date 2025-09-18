@@ -11,7 +11,7 @@
   aspect-ratio: "16-9",
 )
 
-#set text(font: "Fira Sans", weight: 350, size: 20pt)
+#set text(font: "Fira Sans", weight: 350, size: 18pt)
 #show math.equation: set text(font: "Fira Math")
 #set strong(delta: 200)
 #set par(justify: true)
