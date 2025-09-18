@@ -3,7 +3,7 @@
 
 #import themes.metropolis: *
 
-#show: metropolis.with(
+#show: metropolis-theme.with(
   aspect-ratio: "16-9",
   // footer: [Optional Footnote]
 )
