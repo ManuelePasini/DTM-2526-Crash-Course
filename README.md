@@ -1,12 +1,5 @@
-# Typst slides template
+# DTM 2526 Computer Science Crash Course
 
-This is a template for creating slides using [Typst](https://typst.app/) and [Polylux](https://github.com/andreasKroepelin/polylux).
+This is the official repository for the 2025-2026 DTM Computer Science crash course.
 
-This template uses the [metropolis](https://github.com/andreasKroepelin/polylux/blob/main/themes/themes.typ) theme with some customizations for code snippets.
-
-## Usage
-
-1. Rename the `slides-template.typ` file to your desired name.
-2. Edit the file by adding your content.
-3. Push the file to the repository
-4. Access to the released slides in the `Releases` section of the repository.
+You can find the slides in the _release_ section of the repository.
